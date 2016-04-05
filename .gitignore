@@ -1,0 +1,7 @@
+*.gcno
+*.gcda
+*.gcov
+out/*
+*.o
+a.out
+arm_mcr
